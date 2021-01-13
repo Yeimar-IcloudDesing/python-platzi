@@ -1,0 +1,6 @@
+#Se ignoran los binarios de python
+__pycache__/
+
+#Vscode
+.vscode/
+
